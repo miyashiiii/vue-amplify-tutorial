@@ -1,0 +1,15 @@
+{
+  "miya": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myamplifyproject-miya-71058-authRole",
+      "UnauthRoleArn": "arn:aws:iam::624845274456:role/amplify-myamplifyproject-miya-71058-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::624845274456:role/amplify-myamplifyproject-miya-71058-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-myamplifyproject-miya-71058-deployment",
+      "UnauthRoleName": "amplify-myamplifyproject-miya-71058-unauthRole",
+      "StackName": "amplify-myamplifyproject-miya-71058",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:624845274456:stack/amplify-myamplifyproject-miya-71058/4b134d20-26f2-11ec-a09b-0af6d7b327c3",
+      "AmplifyAppId": "d194izsxqkaqv6"
+    }
+  }
+}
